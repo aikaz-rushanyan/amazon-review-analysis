@@ -1,7 +1,5 @@
-
-                    AMAZON PRODUCT REVIEW ANALYSIS
-                    Анализ отзывов покупателей Amazon
-
+AMAZON PRODUCT REVIEW ANALYSIS
+Анализ отзывов покупателей Amazon
 
 О ПРОЕКТЕ
 ---------

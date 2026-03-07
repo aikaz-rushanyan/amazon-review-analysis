@@ -1,4 +1,5 @@
 AMAZON PRODUCT REVIEW ANALYSIS
+
 Анализ отзывов покупателей Amazon
 
 О ПРОЕКТЕ
@@ -93,9 +94,9 @@ AMAZON PRODUCT REVIEW ANALYSIS
 СТРУКТУРА ПРОЕКТА
 -----------------
 project/
-pet.ipynb          # Основной Jupyter Notebook
-amazon.csv         # Датасет (~5 МБ, включён в репозиторий)
-README.txt         # Этот файл
+- pet.ipynb          # Основной Jupyter Notebook
+- amazon.csv         # Датасет (~5 МБ, включён в репозиторий)
+- README.txt         # Этот файл
 
 ВОЗМОЖНОСТИ ДЛЯ РАЗВИТИЯ
 ------------------------

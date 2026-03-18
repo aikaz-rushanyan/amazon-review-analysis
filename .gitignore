@@ -1,14 +1,15 @@
-# Игнорировать большие файлы
+# Данные
+amazon.csv
 *.csv
-*.xlsx
-*.zip
-*.rar
 
-# Игнорировать системные файлы
-.DS_Store
-Thumbs.db
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Виртуальное окружение Python
+venv/
+env/
+
+# Кэш Python (на всякий случай)
 __pycache__/
 *.pyc
-
-# Игнорировать Jupyter checkpoint
-.ipynb_checkpoints/
